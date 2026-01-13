@@ -19,21 +19,21 @@ This codebase implements the core metrics and simulation experiments described i
 git clone [https://github.com/metavision9988/semantic-symbiosis.git](https://github.com/metavision9988/semantic-symbiosis.git)
 cd semantic-symbiosis
 pip install -r requirements.txt
+```
 
 🧪 Usage
 1. Run Model Collapse Simulation
 Reproduce the findings from Figure 5 of the paper (15-generation recursive training).
 
 ```Bash
-
 python run_simulation.py
 Output: Generates model_collapse_results.png comparing baseline vs. SSA.
+```
 
 2. Calculate Core Metrics
 Use the library to measure the "humanness" of a text input stream.
 
 ```python
-
 from src.metrics import calculate_temporal_intentionality, calculate_work_function
 
 # Example: A user types "hello" with some hesitation
@@ -57,3 +57,4 @@ If you use this framework in your research, please cite:
   year={2026},
   url={[https://github.com/metavision9988/semantic-symbiosis](https://github.com/metavision9988/semantic-symbiosis)}
 }
+```

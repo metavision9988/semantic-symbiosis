@@ -21,7 +21,7 @@ cd semantic-symbiosis
 pip install -r requirements.txt
 ```
 
-🧪 Usage
+## 🧪 Usage
 1. Run Model Collapse Simulation
 Reproduce the findings from Figure 5 of the paper (15-generation recursive training).
 
@@ -30,7 +30,7 @@ python run_simulation.py
 Output: Generates model_collapse_results.png comparing baseline vs. SSA.
 ```
 
-2. Calculate Core Metrics
+## 2. Calculate Core Metrics
 Use the library to measure the "humanness" of a text input stream.
 
 ```python
@@ -44,7 +44,7 @@ print(f"Temporal Intentionality T(t): {T_score:.4f}")
 # Result < 0.2 indicates automation, 0.3-0.8 indicates human cognition
 ```
 
-📜 Citation
+## 📜 Citation
 
 If you use this framework in your research, please cite:
 
@@ -60,7 +60,7 @@ If you use this framework in your research, please cite:
 }
 ```
 
-🛡️ License
+## 🛡️ License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 

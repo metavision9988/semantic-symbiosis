@@ -45,6 +45,7 @@ print(f"Temporal Intentionality T(t): {T_score:.4f}")
 ```
 
 📜 Citation
+
 If you use this framework in your research, please cite:
 
 
@@ -58,3 +59,9 @@ If you use this framework in your research, please cite:
   url={[https://github.com/metavision9988/semantic-symbiosis](https://github.com/metavision9988/semantic-symbiosis)}
 }
 ```
+
+🛡️ License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+

@@ -16,6 +16,6 @@ This codebase implements the core metrics and simulation experiments described i
 ## 🚀 Installation
 
 ```bash
-git clone [https://github.com/voidpress/semantic-symbiosis.git](https://github.com/voidpress/semantic-symbiosis.git)
+git clone [https://github.com/metavision9988/semantic-symbiosis.git](https://github.com/metavision9988/semantic-symbiosis.git)
 cd semantic-symbiosis
 pip install -r requirements.txt

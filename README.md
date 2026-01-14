@@ -1,7 +1,7 @@
 # Semantic Symbiosis Architecture (SSA) v4.0
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Paper Version](https://img.shields.io/badge/Paper-v4.0-blue.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18238064.svg)](https://doi.org/10.5281/zenodo.18238064)
 
 > "Machines process results. Humans ARE process." — Mephisto Void
 
